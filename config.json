@@ -20,5 +20,56 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "체육관": {
+      "style": "glass",
+      "wall": "#85878d",
+      "glass": "#56606a",
+      "frame": "#b4b8bd"
+    },
+    "율곡관": {
+      "style": "ribbon",
+      "wall": "#9b6a64",
+      "glass": "#525a5e",
+      "frame": "#cccbc3"
+    },
+    "중앙도서관": {
+      "style": "ribbon",
+      "wall": "#a86759",
+      "glass": "#3f4a50",
+      "frame": "#e4e3df"
+    },
+    "원천관": {
+      "style": "ribbon",
+      "wall": "#eeebe0",
+      "glass": "#3c5560",
+      "frame": "#dcd9ce"
+    },
+    "20.교육연구동(송재관)": {
+      "style": "ribbon",
+      "wall": "#d6d4d2",
+      "glass": "#505054",
+      "frame": "#e7cbc8"
+    },
+    "팔달관": {
+      "style": "ribbon",
+      "wall": "#4f504d",
+      "glass": "#3b3f42",
+      "frame": "#e2e0da"
+    },
+    "혜강관": {
+      "style": "ribbon",
+      "wall": "#8f8e8f",
+      "glass": "#3f6378",
+      "frame": "#6a6a6c"
+    },
+    "다산관": {
+      "style": "brick",
+      "wall": "#a87a6c",
+      "glass": "#3a3f44",
+      "frame": "#e6dfd6"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
